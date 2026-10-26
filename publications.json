@@ -1,0 +1,633 @@
+{
+  "schema_version": "1.0.0",
+  "updated": "2026-10-26",
+  "author": "Tiago Felippe",
+  "orcid": "0009-0005-8100-0348",
+  "orcid_url": "https://orcid.org/0009-0005-8100-0348",
+  "counts": {
+    "records": 26,
+    "historical_records_reviewed": 24,
+    "new_highlighted_records": 2
+  },
+  "scope": {
+    "pt": "26 registros selecionados no Zenodo: 24 registros históricos examinados na retrospectiva e dois trabalhos de síntese e autoria publicados em 26 de outubro de 2026. Depósitos não equivalem a estudos independentes.",
+    "en": "26 selected Zenodo records: 24 historical records examined in the retrospective and two works on synthesis and authorship published on 26 October 2026. Deposits are not equivalent to independent studies."
+  },
+  "classification_note": {
+    "pt": "As categorias organizam a leitura deste site e não substituem os tipos de recurso ou metadados oficiais no Zenodo. Os títulos originais foram preservados.",
+    "en": "Categories organize reading on this website and do not replace official Zenodo resource types or metadata. Original titles are preserved."
+  },
+  "stages": [
+    {
+      "id": "gap-delta",
+      "label": {
+        "pt": "GAP e GAP-Δ",
+        "en": "GAP & GAP-Δ"
+      }
+    },
+    {
+      "id": "cooperation",
+      "label": {
+        "pt": "Cooperação",
+        "en": "Cooperation"
+      }
+    },
+    {
+      "id": "education",
+      "label": {
+        "pt": "GAP-R e GAP-E",
+        "en": "GAP-R & GAP-E"
+      }
+    },
+    {
+      "id": "gapcore",
+      "label": {
+        "pt": "GAP_core e GAPCORE",
+        "en": "GAP_core & GAPCORE"
+      }
+    },
+    {
+      "id": "gapcor",
+      "label": {
+        "pt": "GAPCOR",
+        "en": "GAPCOR"
+      }
+    },
+    {
+      "id": "retrospective",
+      "label": {
+        "pt": "Retrospectiva e autoria",
+        "en": "Retrospective & authorship"
+      }
+    }
+  ],
+  "records": [
+    {
+      "id": "23664997",
+      "doi": "10.5281/zenodo.23664997",
+      "doi_url": "https://doi.org/10.5281/zenodo.23664997",
+      "url": "https://zenodo.org/records/23664997",
+      "title": "Manifesto de autoria, transparência e continuidade / Manifesto on Authorship, Transparency and Continuity",
+      "publication_date": "2026-10-26",
+      "stage": "retrospective",
+      "kind": {
+        "pt": "Manifesto de autoria",
+        "en": "Authorship manifesto"
+      },
+      "description": {
+        "pt": "Declaração sobre a origem pessoal das perguntas, responsabilidade autoral, contribuições de IA e compromisso com a correção e a continuidade da pesquisa.",
+        "en": "Statement on the personal origin of the questions, authorial responsibility, AI contributions, and commitment to correction and continued research."
+      },
+      "featured": true,
+      "reviewed_in_retrospective": false,
+      "examined_version": "1.0.0"
+    },
+    {
+      "id": "23664969",
+      "doi": "10.5281/zenodo.23664969",
+      "doi_url": "https://doi.org/10.5281/zenodo.23664969",
+      "url": "https://zenodo.org/records/23664969",
+      "title": "GAP, GAP-Δ, GAPCORE e GAPCOR: retrospectiva crítica das publicações / Critical Retrospective of the Publications",
+      "publication_date": "2026-10-26",
+      "stage": "retrospective",
+      "kind": {
+        "pt": "Retrospectiva crítica",
+        "en": "Critical retrospective"
+      },
+      "description": {
+        "pt": "Revisão de 24 registros do percurso GAP–GAPCOR, com catálogo de evidências, correções e limites de verificação. Texto em português e inglês.",
+        "en": "Review of 24 records spanning GAP–GAPCOR, with an evidence catalogue, corrections and verification limits. Portuguese and English text."
+      },
+      "featured": true,
+      "reviewed_in_retrospective": false,
+      "examined_version": "1.0.0"
+    },
+    {
+      "id": "23664069",
+      "doi": "10.5281/zenodo.23664069",
+      "doi_url": "https://doi.org/10.5281/zenodo.23664069",
+      "url": "https://zenodo.org/records/23664069",
+      "title": "GAPCOR: estado da engenharia e limites da evidência até a REV031",
+      "publication_date": "2026-10-26",
+      "stage": "gapcor",
+      "kind": {
+        "pt": "Relatório de engenharia",
+        "en": "Engineering report"
+      },
+      "description": {
+        "pt": "Estado documental da engenharia até a REV031. O suplemento usa um modelo independente; não demonstra execução nem validação do sistema GAPCOR.",
+        "en": "Documentary state of engineering through REV031. The supplement uses an independent model; it does not demonstrate execution or validation of the GAPCOR system."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "1.1.0"
+    },
+    {
+      "id": "21378611",
+      "doi": "10.5281/zenodo.21378611",
+      "doi_url": "https://doi.org/10.5281/zenodo.21378611",
+      "url": "https://zenodo.org/records/21378611",
+      "title": "GAPCORE Research Roadmap v1.0.0 — What We Learned While Studying Language: A Manifesto for Open, Auditable and Self-Correcting Science",
+      "publication_date": "2026-07-15",
+      "stage": "gapcore",
+      "kind": {
+        "pt": "Roteiro e manifesto",
+        "en": "Roadmap and manifesto"
+      },
+      "description": {
+        "pt": "Roteiro para uma pesquisa aberta, auditável e sujeita a correção. Distingue futuras direções de resultados e implementações ainda não demonstrados nos anexos.",
+        "en": "Roadmap for open, auditable research subject to correction. Distinguishes future directions from results and implementations not yet demonstrated in the attachments."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "1.0.0"
+    },
+    {
+      "id": "21365280",
+      "doi": "10.5281/zenodo.21365280",
+      "doi_url": "https://doi.org/10.5281/zenodo.21365280",
+      "url": "https://zenodo.org/records/21365280",
+      "title": "GAPCORE Audit Release v1.0.0 — Scientific Audit, Reproducible Evidence and Methodological Evolution of the GAPCORE Research Program",
+      "publication_date": "2026-07-15",
+      "stage": "gapcore",
+      "kind": {
+        "pt": "Auditoria documental",
+        "en": "Documentary audit"
+      },
+      "description": {
+        "pt": "Registro de auditoria e evolução metodológica que compartilha o pacote de 21345133. Deve ser lido com a nota de revisão de outubro de 2026.",
+        "en": "Audit and methodological-development record sharing the package of 21345133. It should be read alongside the October 2026 review note."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "1.0.0"
+    },
+    {
+      "id": "21345133",
+      "doi": "10.5281/zenodo.21345133",
+      "doi_url": "https://doi.org/10.5281/zenodo.21345133",
+      "url": "https://zenodo.org/records/21345133",
+      "title": "GAPCORE Audit Release v1.0 — Independent Scientific Audit of the GAPCORE Methodology, Evidence, and Current Research Status",
+      "publication_date": "2026-07-13",
+      "stage": "gapcore",
+      "kind": {
+        "pt": "Auditoria documental",
+        "en": "Documentary audit"
+      },
+      "description": {
+        "pt": "Auditoria histórica de método e evidência, com reprodução de uma associação tabulada de NEG e limites de completude. O pacote é duplicado no registro 21365280.",
+        "en": "Historical audit of method and evidence, reproducing a tabulated NEG association with completeness limitations. The package is duplicated in record 21365280."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "1.0.0"
+    },
+    {
+      "id": "18971732",
+      "doi": "10.5281/zenodo.18971732",
+      "doi_url": "https://doi.org/10.5281/zenodo.18971732",
+      "url": "https://zenodo.org/records/18971732",
+      "title": "GAPCORE v5.1 — Dataset auditável e análise de robustez de métricas linguísticas de negatividade, agência e contexto em corpus literário multilíngue",
+      "publication_date": "2026-03-12",
+      "stage": "gapcore",
+      "kind": {
+        "pt": "Análise exploratória de corpus",
+        "en": "Exploratory corpus analysis"
+      },
+      "description": {
+        "pt": "Corpus literário multilíngue com tabelas auditáveis e análise de robustez. Uma associação limitada de NEG persiste; desequilíbrio do corpus e interpretações exigem cautela.",
+        "en": "Multilingual literary corpus with auditable tables and robustness analysis. A limited NEG association persists; corpus imbalance and interpretation require caution."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "1.1.0"
+    },
+    {
+      "id": "18281924",
+      "doi": "10.5281/zenodo.18281924",
+      "doi_url": "https://doi.org/10.5281/zenodo.18281924",
+      "url": "https://zenodo.org/records/18281924",
+      "title": "GAPCORE v5.1 — Métricas Linguísticas de Agência, Contexto e Negatividade em Corpus Multilíngue (Project Gutenberg) + Relatórios, Diagnósticos e Resultados FDR",
+      "publication_date": "2026-01-17",
+      "stage": "gapcore",
+      "kind": {
+        "pt": "Métricas e corpus",
+        "en": "Metrics and corpus"
+      },
+      "description": {
+        "pt": "Depósito inicial de métricas de agência, contexto e negatividade em textos do Project Gutenberg. Significância estatística não estabelece estabilidade nem validade semântica.",
+        "en": "Initial deposit of agency, context and negativity metrics in Project Gutenberg texts. Statistical significance establishes neither stability nor semantic validity."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "v1.0.0"
+    },
+    {
+      "id": "18190040",
+      "doi": "10.5281/zenodo.18190040",
+      "doi_url": "https://doi.org/10.5281/zenodo.18190040",
+      "url": "https://zenodo.org/records/18190040",
+      "title": "GAPCORE: A Reproducible Audit Trail for Testing Agency vs. Constraint Language (PT–EN, Gutenberg)",
+      "publication_date": "2026-01-08",
+      "stage": "gapcore",
+      "kind": {
+        "pt": "Arquivo de tentativas",
+        "en": "Archive of attempts"
+      },
+      "description": {
+        "pt": "Registro de tentativas de análise de linguagem em português e inglês, com evolução metodológica e resultados negativos documentados.",
+        "en": "Record of attempts to analyze Portuguese and English language, documenting methodological development and negative findings."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "v1.0.0"
+    },
+    {
+      "id": "18173497",
+      "doi": "10.5281/zenodo.18173497",
+      "doi_url": "https://doi.org/10.5281/zenodo.18173497",
+      "url": "https://zenodo.org/records/18173497",
+      "title": "GAP_core (v0.1): teste de \"event signal\" vs controles (timeshift e placebo) — um resultado nulo útil",
+      "publication_date": "2026-01-07",
+      "stage": "gapcore",
+      "kind": {
+        "pt": "Resultado nulo relatado",
+        "en": "Reported null result"
+      },
+      "description": {
+        "pt": "Relato de 63 comparações sem candidatos exclusivos da condição EVENT. A revisão delimita a regra de decisão e as lacunas dos arquivos públicos.",
+        "en": "Report of 63 comparisons with no candidates exclusive to the EVENT condition. The review specifies the decision rule and gaps in the public files."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "v1.0.0"
+    },
+    {
+      "id": "18162696",
+      "doi": "10.5281/zenodo.18162696",
+      "doi_url": "https://doi.org/10.5281/zenodo.18162696",
+      "url": "https://zenodo.org/records/18162696",
+      "title": "Do conflito de narrativas ao chão comum: um programa mínimo (testável) para bem comum, responsabilidade graduada e marcadores de co-regulação (GAP_core)",
+      "publication_date": "2026-01-06",
+      "stage": "cooperation",
+      "kind": {
+        "pt": "Programa conceitual e simulação",
+        "en": "Conceptual programme and simulation"
+      },
+      "description": {
+        "pt": "Programa normativo sobre narrativas, responsabilidade e co-regulação. O anexo compartilha arquivos técnicos com o dossiê de cooperação de setembro de 2025.",
+        "en": "Normative programme on narratives, responsibility and co-regulation. Its attachment shares technical files with the September 2025 cooperation dossier."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "1.0.0"
+    },
+    {
+      "id": "17613290",
+      "doi": "10.5281/zenodo.17613290",
+      "doi_url": "https://doi.org/10.5281/zenodo.17613290",
+      "url": "https://zenodo.org/records/17613290",
+      "title": "GAP-Δ: um índice simples de sincronia, tempo e regulação – e por que ele é cientificamente plausível",
+      "publication_date": "2025-11-14",
+      "stage": "gap-delta",
+      "kind": {
+        "pt": "Síntese quantitativa revisada",
+        "en": "Reviewed quantitative synthesis"
+      },
+      "description": {
+        "pt": "Apresentação do GAP-Δ acompanhada do mesmo ZIP de 17613207. A nota de revisão retira as interpretações de validação e replicabilidade.",
+        "en": "Presentation of GAP-Δ accompanied by the same ZIP as 17613207. The review note withdraws the validation and replicability interpretations."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "v1.0.0"
+    },
+    {
+      "id": "17613207",
+      "doi": "10.5281/zenodo.17613207",
+      "doi_url": "https://doi.org/10.5281/zenodo.17613207",
+      "url": "https://zenodo.org/records/17613207",
+      "title": "GAP-Δ: First Meta-Analytic Results on Synchrony, Timing, and Emotional Regulation",
+      "publication_date": "2025-11-14",
+      "stage": "gap-delta",
+      "kind": {
+        "pt": "Síntese quantitativa revisada",
+        "en": "Reviewed quantitative synthesis"
+      },
+      "description": {
+        "pt": "Resultados meta-analíticos cujas interpretações foram retiradas na nota de revisão, devido a duplicações e ausência de fontes rastreáveis. Compartilha o mesmo ZIP com 17613290.",
+        "en": "Meta-analytic results whose interpretations were withdrawn in the review note because of duplication and absent traceable sources. Shares the same ZIP with 17613290."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "V1.0.0"
+    },
+    {
+      "id": "17501988",
+      "doi": "10.5281/zenodo.17501988",
+      "doi_url": "https://doi.org/10.5281/zenodo.17501988",
+      "url": "https://zenodo.org/records/17501988",
+      "title": "Tutor GAP-E v1.1 — Ensino com âncora ética e métricas simples para aprender melhor",
+      "publication_date": "2025-11-01",
+      "stage": "education",
+      "kind": {
+        "pt": "Plano de pesquisa",
+        "en": "Research plan"
+      },
+      "description": {
+        "pt": "Proposta de pré-registro para ensino com apoio de IA e métricas de cooperação. Não apresenta resultados e requer detalhamento do planejamento amostral.",
+        "en": "Proposed preregistration for AI-supported teaching and cooperation metrics. Reports no results and requires more detailed sample-size planning."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "v1.1"
+    },
+    {
+      "id": "17501651",
+      "doi": "10.5281/zenodo.17501651",
+      "doi_url": "https://doi.org/10.5281/zenodo.17501651",
+      "url": "https://zenodo.org/records/17501651",
+      "title": "Tutor GAP-E v1.1 — Tutor de IA com âncora ética e métricas de cooperação",
+      "publication_date": "2025-11-01",
+      "stage": "education",
+      "kind": {
+        "pt": "Documentação de proposta",
+        "en": "Proposal documentation"
+      },
+      "description": {
+        "pt": "Estrutura documental de um tutor de IA com âncora ética. O pacote não contém um tutor executável nem evidência de funcionamento.",
+        "en": "Documentation structure for an AI tutor with an ethical anchor. The package contains neither an executable tutor nor evidence of functioning."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "v1.0"
+    },
+    {
+      "id": "17501117",
+      "doi": "10.5281/zenodo.17501117",
+      "doi_url": "https://doi.org/10.5281/zenodo.17501117",
+      "url": "https://zenodo.org/records/17501117",
+      "title": "GAP-R: Linguagem mensurável para cooperação e gestão de riscos em educação e comunidades",
+      "publication_date": "2025-11-01",
+      "stage": "education",
+      "kind": {
+        "pt": "Modelo proposto",
+        "en": "Proposed framework"
+      },
+      "description": {
+        "pt": "Proposta de linguagem e métricas para cooperação e gestão de riscos em educação e comunidades, acompanhada de modelos documentais.",
+        "en": "Proposal for language and metrics for cooperation and risk management in education and communities, accompanied by document templates."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "v1.0"
+    },
+    {
+      "id": "17117162",
+      "doi": "10.5281/zenodo.17117162",
+      "doi_url": "https://doi.org/10.5281/zenodo.17117162",
+      "url": "https://zenodo.org/records/17117162",
+      "title": "GAP Coop Dossier v1 (Data & Reproducible Code)",
+      "publication_date": "2025-09-14",
+      "stage": "cooperation",
+      "kind": {
+        "pt": "Dossiê de simulação",
+        "en": "Simulation dossier"
+      },
+      "description": {
+        "pt": "Simulações exploratórias de jogos iterados e cooperação. Não constituem validação de comportamento humano; parte do material reaparece no registro de janeiro de 2026.",
+        "en": "Exploratory simulations of iterated games and cooperation. They do not validate human behavior; some material reappears in the January 2026 record."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "v1.0.0"
+    },
+    {
+      "id": "17112574",
+      "doi": "10.5281/zenodo.17112574",
+      "doi_url": "https://doi.org/10.5281/zenodo.17112574",
+      "url": "https://zenodo.org/records/17112574",
+      "title": "Meta-analysis (Fisher z) with TOST, planning and diagnostics — GAP-Δ Project",
+      "publication_date": "2025-09-13",
+      "stage": "gap-delta",
+      "kind": {
+        "pt": "Análise e planejamento",
+        "en": "Analysis and planning"
+      },
+      "description": {
+        "pt": "Material de meta-análise e planejamento com TOST. A revisão documenta divergências entre arquivos e erro na condição de equivalência.",
+        "en": "Meta-analysis and planning material using TOST. The review documents inconsistencies between files and an error in the equivalence condition."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "v0.1.0"
+    },
+    {
+      "id": "17102773",
+      "doi": "10.5281/zenodo.17102773",
+      "doi_url": "https://doi.org/10.5281/zenodo.17102773",
+      "url": "https://zenodo.org/records/17102773",
+      "title": "GAP–Δ Project: Reprodutibilidade e relatório do estudo",
+      "publication_date": "2025-09-12",
+      "stage": "gap-delta",
+      "kind": {
+        "pt": "Dossiê analítico",
+        "en": "Analytic dossier"
+      },
+      "description": {
+        "pt": "Tabelas, figuras, relatórios e código de pequenas meta-análises. A origem dos dados e a cadeia de reprodução permanecem incompletas.",
+        "en": "Tables, figures, reports and code for small meta-analyses. Data provenance and the reproduction chain remain incomplete."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "v1.0.0"
+    },
+    {
+      "id": "17087768",
+      "doi": "10.5281/zenodo.17087768",
+      "doi_url": "https://doi.org/10.5281/zenodo.17087768",
+      "url": "https://zenodo.org/records/17087768",
+      "title": "Decisão pró-social: tempo de decisão, observabilidade e normas sociais — dados, meta-análise e compêndio analítico (2010–2025)",
+      "publication_date": "2025-09-09",
+      "stage": "gap-delta",
+      "kind": {
+        "pt": "Síntese exploratória",
+        "en": "Exploratory synthesis"
+      },
+      "description": {
+        "pt": "Compilação sobre tempo de decisão, observabilidade e normas sociais. A revisão identifica problemas de referências e extração que limitam as estimativas combinadas.",
+        "en": "Compilation on decision time, observability and social norms. The review identifies reference and extraction problems that limit the pooled estimates."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "v1.0.0"
+    },
+    {
+      "id": "17063499",
+      "doi": "10.5281/zenodo.17063499",
+      "doi_url": "https://doi.org/10.5281/zenodo.17063499",
+      "url": "https://zenodo.org/records/17063499",
+      "title": "GAP–Δ: tempo como recurso bio-sensorial para o acesso consciente e o veto",
+      "publication_date": "2025-09-05",
+      "stage": "gap-delta",
+      "kind": {
+        "pt": "Hipótese teórica",
+        "en": "Theoretical hypothesis"
+      },
+      "description": {
+        "pt": "Hipótese sobre a folga temporal entre processos de resposta e inibição e sua possível relação com o controle consciente.",
+        "en": "Hypothesis about temporal slack between response and inhibition processes and its possible relationship to conscious control."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "v1.0.0"
+    },
+    {
+      "id": "16915314",
+      "doi": "10.5281/zenodo.16915314",
+      "doi_url": "https://doi.org/10.5281/zenodo.16915314",
+      "url": "https://zenodo.org/records/16915314",
+      "title": "GAP–Δ — Nota de Conceito & Chamada à Colaboração Multi-Sítio (Outcome-Neutral)",
+      "publication_date": "2025-08-20",
+      "stage": "gap-delta",
+      "kind": {
+        "pt": "Nota de conceito",
+        "en": "Concept note"
+      },
+      "description": {
+        "pt": "Convite à colaboração multicêntrica, com compromisso de divulgar resultados positivos ou nulos e declaração de assistência de IA.",
+        "en": "Invitation to multisite collaboration, with a commitment to report positive or null findings and a disclosure of AI assistance."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "v1.0.0"
+    },
+    {
+      "id": "16915115",
+      "doi": "10.5281/zenodo.16915115",
+      "doi_url": "https://doi.org/10.5281/zenodo.16915115",
+      "url": "https://zenodo.org/records/16915115",
+      "title": "Pré-registro GAP–Δ (Stage 1): Hipóteses, SESOI/TOST e Plano Analítico Confirmatório",
+      "publication_date": "2025-08-20",
+      "stage": "gap-delta",
+      "kind": {
+        "pt": "Plano confirmatório",
+        "en": "Confirmatory plan"
+      },
+      "description": {
+        "pt": "Hipóteses, limites de equivalência e plano analítico apresentados como pré-registro. Registra intenções de pesquisa; não apresenta resultados.",
+        "en": "Hypotheses, equivalence bounds and an analysis plan presented as a preregistration. Records research intentions; it reports no results."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "v1.0.0"
+    },
+    {
+      "id": "16914600",
+      "doi": "10.5281/zenodo.16914600",
+      "doi_url": "https://doi.org/10.5281/zenodo.16914600",
+      "url": "https://zenodo.org/records/16914600",
+      "title": "Protocolo GAP–Δ v0.1: Tarefas Curtas e Índices E, τ, σ, r — Replicação Aberta",
+      "publication_date": "2025-08-20",
+      "stage": "gap-delta",
+      "kind": {
+        "pt": "Protocolo proposto",
+        "en": "Proposed protocol"
+      },
+      "description": {
+        "pt": "Plano de tarefas e índices fisiológicos e comportamentais. As definições operacionais e os procedimentos precisam de detalhamento para permitir reprodução.",
+        "en": "Plan for tasks and physiological and behavioral indices. Operational definitions and procedures require further detail to enable reproduction."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "v0.1"
+    },
+    {
+      "id": "16914367",
+      "doi": "10.5281/zenodo.16914367",
+      "doi_url": "https://doi.org/10.5281/zenodo.16914367",
+      "url": "https://zenodo.org/records/16914367",
+      "title": "GAP–Δ e Malhas: Uma Janela Mensurável entre Sentir e Linguagem — Piloto (descritivo) + Protocolo Confirmatório",
+      "publication_date": "2025-08-20",
+      "stage": "gap-delta",
+      "kind": {
+        "pt": "Resumo de piloto e protocolo",
+        "en": "Pilot and protocol abstract"
+      },
+      "description": {
+        "pt": "Resumo que anuncia tendências de um piloto e um protocolo confirmatório. O material depositado não documenta a amostra nem os resultados necessários à verificação.",
+        "en": "Abstract announcing pilot trends and a confirmatory protocol. The deposited material does not document the sample or results needed for verification."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "v1.0.0"
+    },
+    {
+      "id": "16810915",
+      "doi": "10.5281/zenodo.16810915",
+      "doi_url": "https://doi.org/10.5281/zenodo.16810915",
+      "url": "https://zenodo.org/records/16810915",
+      "title": "GAP–Δ e Malhas: Um Índice Testável do Encontro entre Sentir e Linguagem — Resumo executivo",
+      "publication_date": "2025-08-12",
+      "stage": "gap-delta",
+      "kind": {
+        "pt": "Proposta conceitual",
+        "en": "Conceptual proposal"
+      },
+      "description": {
+        "pt": "Proposta inicial sobre a distância entre sentir e linguagem e o possível papel das pausas. Hipótese anterior à validação empírica.",
+        "en": "Initial proposal on the distance between feeling and language and the possible role of pauses. A hypothesis preceding empirical validation."
+      },
+      "featured": false,
+      "reviewed_in_retrospective": true,
+      "review_note_date": "2026-10-26",
+      "examined_version": "1.0.2"
+    }
+  ],
+  "shared_material": [
+    {
+      "ids": [
+        "17613207",
+        "17613290"
+      ],
+      "relationship": "byte-identical ZIP attachment"
+    },
+    {
+      "ids": [
+        "21345133",
+        "21365280"
+      ],
+      "relationship": "duplicate audit package"
+    },
+    {
+      "ids": [
+        "17117162",
+        "18162696"
+      ],
+      "relationship": "six identical technical files, not necessarily identical complete packages"
+    }
+  ]
+}

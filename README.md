@@ -1,13 +1,13 @@
 # Tiago Felippe — página de pesquisa
 
-Site estático bilíngue de Tiago Felippe, pesquisador independente, com trajetória, catálogo de 26 registros públicos no Zenodo e links DOI.
+Site estático bilíngue de Tiago Felippe, pesquisador independente, com trajetória, catálogo de 27 registros públicos no Zenodo e links DOI.
 
 **Site:** https://samaritano1988.github.io/  
 **ORCID:** https://orcid.org/0009-0005-8100-0348
 
 ## Conteúdo
 
-- `index.html`: conteúdo completo em português e inglês, inclusive os 26 registros; os links permanecem disponíveis sem JavaScript.
+- `index.html`: conteúdo completo em português e inglês, inclusive os 27 registros; os links permanecem disponíveis sem JavaScript.
 - `styles.css`: apresentação responsiva e estilos de impressão.
 - `script.js`: seleção de idioma, busca e filtro por etapa.
 - `publications.json`: metadados estruturados do catálogo exibido.
@@ -22,11 +22,11 @@ Conteúdo conferido com a retrospectiva crítica e o manifesto publicados em 26 
 - https://doi.org/10.5281/zenodo.23664969
 - https://doi.org/10.5281/zenodo.23664997
 
-O catálogo reúne 24 registros históricos examinados na retrospectiva e os dois trabalhos acima. Depósitos não equivalem a estudos independentes. As descrições são notas editoriais de leitura, e as categorias do site não substituem os metadados oficiais do Zenodo. Títulos originais são preservados nos dois idiomas.
+O catálogo reúne 24 registros históricos examinados na retrospectiva, os dois trabalhos acima e o relato técnico CP080–A13 com complementos de novembro de 2026. Depósitos não equivalem a estudos independentes. As descrições são notas editoriais de leitura, e as categorias do site não substituem os metadados oficiais do Zenodo. Títulos originais são preservados nos dois idiomas.
 
 Ao atualizar uma publicação, manter `index.html` e `publications.json` consistentes. Atualizar a data visível e `sitemap.xml` quando pertinente. As licenças de cada publicação e de seus arquivos devem ser consultadas no registro correspondente do Zenodo.
 
-O conteúdo do site foi organizado com assistência de IA a partir dos materiais públicos do autor. Não foram acrescentados indicadores de citações, afiliações acadêmicas ou alegações de revisão externa não verificadas. Não há ferramentas de análise de visitantes, formulários de coleta ou dependências externas. A preferência de idioma pode ser guardada localmente no navegador do visitante.
+Não foram acrescentados indicadores de citações, afiliações acadêmicas ou alegações de revisão externa não verificadas. Não há ferramentas de análise de visitantes, formulários de coleta ou dependências externas. A preferência de idioma pode ser guardada localmente no navegador do visitante.
 
 
 ## Autoria, trajetória e continuidade / Authorship, history and continuation
@@ -46,3 +46,12 @@ The work has public Zenodo records dating from 2025. According to the author’s
 Tiago leads the project with substantial AI contributions to programming, debugging, review, analysis and the organisation of materials. The software remains under development; its capabilities and the validity of its interpretations still require evaluation. Any originality of the integration depends on documented comparison with the literature and other systems.
 
 Tiago continues the work independently and intends to share new stages on GitHub and Zenodo. Public materials are available for consultation, criticism and contributions to the project’s development and continuation, subject to each deposit’s terms of use. AI assistance and independent external human review are distinct processes.
+
+
+## Andamento em 5 de novembro de 2026
+
+O bloco de andamento distingue o relato técnico CP080–A13 do complemento A15-R2 e da auditoria por IA A16. O comparador passou em 52 verificações sintéticas de desenvolvimento (24 entradas, 16 pares e 12 controles). A integração 0.1.2-candidate está implementada e revisada estaticamente, com 32 casos preparados ainda não executados no recorte; a interface não foi verificada em navegador. O componente C 080b, em uma frente distinta, passou em 255 execuções normais. Essas contagens não medem benefício humano nem são somadas como um único estudo.
+
+O complemento discute benefícios possíveis e salvaguardas como hipóteses de pesquisa. A auditoria documental por IA examinou 12 alegações, com três revisores e 11 fontes primárias; não é certificação ou revisão acadêmica externa por pares. A15-R2 incorpora sete ajustes ao A15 original.
+
+Referência do depósito A14/A15/A16: https://zenodo.org/records/23982662 — DOI 10.5281/zenodo.23982662. Os quatro PDFs pertencem a um único registro: A14 é o artigo técnico, A16 reúne A15-R2 e a auditoria, a auditoria também está disponível avulsa e A15 preserva a versão anterior. As notas de preparação dos PDFs registram o estado em que foram escritos.

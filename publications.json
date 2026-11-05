@@ -1,17 +1,17 @@
 {
   "schema_version": "1.0.0",
-  "updated": "2026-10-26",
+  "updated": "2026-11-05",
   "author": "Tiago Felippe",
   "orcid": "0009-0005-8100-0348",
   "orcid_url": "https://orcid.org/0009-0005-8100-0348",
   "counts": {
-    "records": 26,
+    "records": 27,
     "historical_records_reviewed": 24,
-    "new_highlighted_records": 2
+    "new_highlighted_records": 3
   },
   "scope": {
-    "pt": "26 registros selecionados no Zenodo: 24 registros históricos examinados na retrospectiva e dois trabalhos de síntese e autoria publicados em 26 de outubro de 2026. Depósitos não equivalem a estudos independentes.",
-    "en": "26 selected Zenodo records: 24 historical records examined in the retrospective and two works on synthesis and authorship published on 26 October 2026. Deposits are not equivalent to independent studies."
+    "pt": "27 registros selecionados no Zenodo: 24 registros históricos examinados na retrospectiva, dois trabalhos de síntese e autoria de outubro de 2026 e o relato técnico CP080–A13 com complementos de novembro de 2026. Depósitos não equivalem a estudos independentes.",
+    "en": "27 selected Zenodo records: 24 historical records examined in the retrospective, two works on synthesis and authorship from October 2026, and the CP080–A13 technical report with supplements from November 2026. Deposits are not equivalent to independent studies."
   },
   "classification_note": {
     "pt": "As categorias organizam a leitura deste site e não substituem os tipos de recurso ou metadados oficiais no Zenodo. Os títulos originais foram preservados.",
@@ -62,6 +62,26 @@
     }
   ],
   "records": [
+    {
+      "doi": "10.5281/zenodo.23982662",
+      "title": "GAPCORE: desenvolvimento e verificação de uma aplicação para análise e comparação de relações linguísticas",
+      "publication_date": "2026-11-05",
+      "stage": "gapcor",
+      "kind": {
+        "pt": "Relato técnico e auditoria por IA",
+        "en": "Technical progress report and AI audit"
+      },
+      "description": {
+        "pt": "Relato CP080–A13: 52 verificações do comparador e 255 execuções normais do componente C em frentes distintas. Integração 0.1.2-candidate ainda sem executar seus 32 casos preparados; navegador pendente. Inclui complemento de benefícios possíveis e auditoria documental por IA, sem demonstração de benefício humano ou eficácia ética.",
+        "en": "CP080–A13 report: 52 comparator checks and 255 normal C-component executions in separate tracks. Integration 0.1.2-candidate has not yet run its 32 prepared cases; browser verification is pending. Includes a supplement on potential benefits and an AI documentary audit, without demonstrating human benefit or ethical effectiveness."
+      },
+      "featured": true,
+      "reviewed_in_retrospective": false,
+      "examined_version": "A14 / A15 / A15-R2 / A16",
+      "id": "23982662",
+      "doi_url": "https://doi.org/10.5281/zenodo.23982662",
+      "url": "https://zenodo.org/records/23982662"
+    },
     {
       "id": "23664997",
       "doi": "10.5281/zenodo.23664997",
@@ -629,5 +649,39 @@
       ],
       "relationship": "six identical technical files, not necessarily identical complete packages"
     }
-  ]
+  ],
+  "development_status": {
+    "as_of": "2026-11-05",
+    "software_report_scope": "CP080–A13",
+    "documentary_supplement": "A15-R2/A16",
+    "comparator": {
+      "checks_passed": 52,
+      "inputs": 24,
+      "pairs": 16,
+      "contract_controls": 12,
+      "scope": "synthetic development and regression set"
+    },
+    "integration": {
+      "version": "0.1.2-candidate",
+      "status": "implemented and statically reviewed",
+      "prepared_cases": 32,
+      "cases_executed_within_report": false,
+      "browser_verified": false
+    },
+    "c_component": {
+      "version": "080b",
+      "normal_executions_passed": 255,
+      "separate_engineering_track": true
+    },
+    "ai_documentary_audit": {
+      "claims_examined": 12,
+      "reviewers": 3,
+      "primary_sources": 11,
+      "certification": false,
+      "external_peer_review": false
+    },
+    "deposit_status": "PUBLISHED",
+    "doi": "10.5281/zenodo.23982662",
+    "record_url": "https://zenodo.org/records/23982662"
+  }
 }

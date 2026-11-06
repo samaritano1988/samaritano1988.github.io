@@ -1,6 +1,6 @@
 # Tiago Felippe — página de pesquisa
 
-Site estático bilíngue de Tiago Felippe, pesquisador independente, com trajetória, catálogo de 27 registros públicos no Zenodo e links DOI.
+Site estático bilíngue de Tiago Felippe, pesquisador independente, com trajetória, catálogo de 28 registros públicos no Zenodo e links DOI.
 
 **Site:** https://samaritano1988.github.io/  
 **ORCID:** https://orcid.org/0009-0005-8100-0348
@@ -11,7 +11,7 @@ Site estático bilíngue de Tiago Felippe, pesquisador independente, com trajet�
 
 ## Conteúdo
 
-- `index.html`: conteúdo completo em português e inglês, inclusive os 27 registros; os links permanecem disponíveis sem JavaScript.
+- `index.html`: conteúdo completo em português e inglês, inclusive os 28 registros; os links permanecem disponíveis sem JavaScript.
 - `styles.css`: apresentação responsiva e estilos de impressão.
 - `script.js`: seleção de idioma, busca e filtro por etapa.
 - `publications.json`: metadados estruturados do catálogo exibido.
@@ -26,7 +26,7 @@ Conteúdo conferido com a retrospectiva crítica e o manifesto publicados em 26 
 - https://doi.org/10.5281/zenodo.23664969
 - https://doi.org/10.5281/zenodo.23664997
 
-O catálogo reúne 24 registros históricos examinados na retrospectiva, os dois trabalhos acima e o relato técnico CP080–A13 com complementos de novembro de 2026. Depósitos não equivalem a estudos independentes. As descrições são notas editoriais de leitura, e as categorias do site não substituem os metadados oficiais do Zenodo. Títulos originais são preservados nos dois idiomas.
+O catálogo reúne 24 registros históricos examinados na retrospectiva, os dois trabalhos acima e as duas publicações de novembro de 2026, o relato técnico CP080–A13 com complementos e o adendo sobre atribuição. Depósitos não equivalem a estudos independentes. As descrições são notas editoriais de leitura, e as categorias do site não substituem os metadados oficiais do Zenodo. Títulos originais são preservados nos dois idiomas.
 
 Ao atualizar uma publicação, manter `index.html` e `publications.json` consistentes. Atualizar a data visível e `sitemap.xml` quando pertinente. As licenças de cada publicação e de seus arquivos devem ser consultadas no registro correspondente do Zenodo.
 
@@ -68,3 +68,5 @@ Adendo de Tiago Felippe ao manifesto de outubro, com a cronologia do programa, a
 Tiago Felippe’s addendum to the October manifesto documents the project’s chronology, human and AI contributions, and comparisons with earlier work.
 
 [PDF em português / PDF in Portuguese](publicacoes/GAPCORE_Manifesto_e_Auditoria_2026-11-06.pdf) · [Licença deste PDF / License for this PDF: CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+
+DOI: https://doi.org/10.5281/zenodo.24013356

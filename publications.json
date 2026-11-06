@@ -5,13 +5,13 @@
   "orcid": "0009-0005-8100-0348",
   "orcid_url": "https://orcid.org/0009-0005-8100-0348",
   "counts": {
-    "records": 27,
+    "records": 28,
     "historical_records_reviewed": 24,
-    "new_highlighted_records": 3
+    "new_highlighted_records": 4
   },
   "scope": {
-    "pt": "27 registros selecionados no Zenodo: 24 registros históricos examinados na retrospectiva, dois trabalhos de síntese e autoria de outubro de 2026 e o relato técnico CP080–A13 com complementos de novembro de 2026. Depósitos não equivalem a estudos independentes.",
-    "en": "27 selected Zenodo records: 24 historical records examined in the retrospective, two works on synthesis and authorship from October 2026, and the CP080–A13 technical report with supplements from November 2026. Deposits are not equivalent to independent studies."
+    "pt": "28 registros selecionados no Zenodo, incluindo 24 históricos, a retrospectiva e o manifesto de outubro e duas publicações de novembro de 2026. Alguns depósitos compartilham arquivos.",
+    "en": "28 selected Zenodo records, including 24 historical records, the October retrospective and manifesto, and two November 2026 publications. Some deposits share files."
   },
   "classification_note": {
     "pt": "As categorias organizam a leitura deste site e não substituem os tipos de recurso ou metadados oficiais no Zenodo. Os títulos originais foram preservados.",
@@ -62,6 +62,26 @@
     }
   ],
   "records": [
+    {
+      "doi": "10.5281/zenodo.24013356",
+      "title": "Manifesto de atribuição e continuidade do GAPCORE",
+      "publication_date": "2026-11-06",
+      "stage": "retrospective",
+      "kind": {
+        "pt": "Manifesto e auditoria documental",
+        "en": "Manifesto and documentary audit"
+      },
+      "description": {
+        "pt": "Adendo de Tiago Felippe ao manifesto de outubro, com a cronologia do programa, as contribuições humanas e de IA e uma comparação com trabalhos anteriores.",
+        "en": "Tiago Felippe’s addendum to the October manifesto documents the project’s chronology, human and AI contributions, and comparisons with earlier work."
+      },
+      "featured": true,
+      "reviewed_in_retrospective": false,
+      "examined_version": "1.0.0",
+      "id": "24013356",
+      "doi_url": "https://doi.org/10.5281/zenodo.24013356",
+      "url": "https://zenodo.org/records/24013356"
+    },
     {
       "doi": "10.5281/zenodo.23982662",
       "title": "GAPCORE: desenvolvimento e verificação de uma aplicação para análise e comparação de relações linguísticas",
@@ -693,6 +713,7 @@
     "license": "CC BY-NC 4.0",
     "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
     "related_record": "10.5281/zenodo.23664997",
-    "sha256": "aec082c1d6ebf1a112a6185e030f88f271b9d2eeeca5766881b535d9bb6ea8db"
+    "sha256": "aec082c1d6ebf1a112a6185e030f88f271b9d2eeeca5766881b535d9bb6ea8db",
+    "doi": "10.5281/zenodo.24013356"
   }
 }

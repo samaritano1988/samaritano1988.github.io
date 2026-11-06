@@ -5,6 +5,10 @@ Site estático bilíngue de Tiago Felippe, pesquisador independente, com trajet�
 **Site:** https://samaritano1988.github.io/  
 **ORCID:** https://orcid.org/0009-0005-8100-0348
 
+## Nova publicação · 6 de novembro de 2026
+
+[Manifesto de atribuição e continuidade do GAPCORE (PDF)](publicacoes/GAPCORE_Manifesto_e_Auditoria_2026-11-06.pdf) — Tiago Felippe. CC BY-NC 4.0 para este documento.
+
 ## Conteúdo
 
 - `index.html`: conteúdo completo em português e inglês, inclusive os 27 registros; os links permanecem disponíveis sem JavaScript.

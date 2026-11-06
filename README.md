@@ -55,3 +55,12 @@ O bloco de andamento distingue o relato técnico CP080–A13 do complemento A15-
 O complemento discute benefícios possíveis e salvaguardas como hipóteses de pesquisa. A auditoria documental por IA examinou 12 alegações, com três revisores e 11 fontes primárias; não é certificação ou revisão acadêmica externa por pares. A15-R2 incorpora sete ajustes ao A15 original.
 
 Referência do depósito A14/A15/A16: https://zenodo.org/records/23982662 — DOI 10.5281/zenodo.23982662. Os quatro PDFs pertencem a um único registro: A14 é o artigo técnico, A16 reúne A15-R2 e a auditoria, a auditoria também está disponível avulsa e A15 preserva a versão anterior. As notas de preparação dos PDFs registram o estado em que foram escritos.
+
+
+## Manifesto de atribuição e continuidade do GAPCORE
+
+Adendo de Tiago Felippe ao manifesto de outubro, com a cronologia do programa, as contribuições humanas e de IA e uma comparação com trabalhos anteriores.
+
+Tiago Felippe’s addendum to the October manifesto documents the project’s chronology, human and AI contributions, and comparisons with earlier work.
+
+[PDF em português / PDF in Portuguese](publicacoes/GAPCORE_Manifesto_e_Auditoria_2026-11-06.pdf) · [Licença deste PDF / License for this PDF: CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).

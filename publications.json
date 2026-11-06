@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "author": "Tiago Felippe",
   "orcid": "0009-0005-8100-0348",
   "orcid_url": "https://orcid.org/0009-0005-8100-0348",
@@ -683,5 +683,16 @@
     "deposit_status": "PUBLISHED",
     "doi": "10.5281/zenodo.23982662",
     "record_url": "https://zenodo.org/records/23982662"
+  },
+  "manifesto_addendum": {
+    "title": "Manifesto de atribuição e continuidade do GAPCORE",
+    "author": "Tiago Felippe",
+    "date": "2026-11-06",
+    "url": "https://samaritano1988.github.io/publicacoes/GAPCORE_Manifesto_e_Auditoria_2026-11-06.pdf",
+    "language": "pt",
+    "license": "CC BY-NC 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "related_record": "10.5281/zenodo.23664997",
+    "sha256": "0473b31927b441d9406bfc209f3e1d640a56b9168fc44712349685fdf2857a4a"
   }
 }
